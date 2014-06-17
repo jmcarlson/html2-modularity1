@@ -1,1 +1,17 @@
-/* ADD YOUR STYLES HERE */
+.instruction-text {
+	font-size: 24pt;
+}
+
+.header-row {
+	font-size: 24pt;
+}
+
+.data-table {
+	display: table;
+	border-collapse: separate;
+    border-spacing: 2px;
+    border-color: gray;
+	width: 100%;
+	
+	display: table-row;
+}
